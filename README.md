@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nishee-Chauhan
 - 👀 I’m interested in Salesforce and Java script projects...
 - 🌱 I’m currently learning lightning Web Components in salesforce...
+- learning git hub
 
 
 <!---
